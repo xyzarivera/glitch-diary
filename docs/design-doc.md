@@ -23,7 +23,7 @@ interface and a server with data persistence.
 ### As an engineer
 
 - I should be able to develop an application without using 
-frontend libraries (ReactJS, Vue, Sveltte) or meta-frameworks (NextJS, NuxtJS,
+frontend libraries (ReactJS, Vue, Svelte) or meta-frameworks (NextJS, NuxtJS,
 Svelte Kit)
 - I should be able to use modern CSS by not using pre-processors or utility 
 classes
