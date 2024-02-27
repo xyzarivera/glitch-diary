@@ -63,3 +63,6 @@ database and REST API.
 
 Both user interface and server will be deployed in a Raspberry Pi.
 
+## Testing
+Unit test are to be written using Jest.
+
