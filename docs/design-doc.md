@@ -51,6 +51,7 @@ These features are not yet covered:
   - reading individual logs
   - updating logs
   - deleting logs
+  - testing 
 
 ## Architecture
 
