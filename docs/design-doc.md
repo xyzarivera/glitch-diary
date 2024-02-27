@@ -24,7 +24,7 @@ interface and a server with data persistence.
 
 - I should be able to develop an application without using 
 frontend libraries (ReactJS, Vue, Sveltte) or meta-frameworks (NextJS, NuxtJS,
-Sveltte Kit)
+Svelte Kit)
 - I should be able to use modern CSS by not using pre-processors or utility 
 classes
 - I should be able to deploy an application in a bare-metal
